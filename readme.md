@@ -1,7 +1,12 @@
 # Satellite Conflict Analysis Dashboard  
 **Interactive visualization of orbital deployments and geopolitical tensions (1992-2025)**  
 
-![Dashboard Preview](https://img.freepik.com/free-vector/space-infographic_1284-17966.jpg?w=1380&t=st=1713063969~exp=1713064569~hmac=4c0c89d9d8e8e0e8d0e4b4e4e4b4e4e4e4b4e4e4e4b4e4e4e4b4e4e4e4b4e4e4e)  
+## Sample Output(Screenshots)
+
+![Inforgraphic](Satellite Infographic ss.png)
+![Satellite launches and hostility index](Satellite Launches ss.png)
+![Satellite Mass Accumulation](Satellite Mass Accumulation ss.png)
+![Satellie Lifespan](Satellite Lifespan ss.png)
 
 
 ## 🚀 Installation & Dependencies
